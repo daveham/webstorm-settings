@@ -1,21 +1,21 @@
 <toolSet name="Lens External Tools">
   <tool name="lens-gulp-dev" description="Bable compile source to libraries" showInMainMenu="true" showInEditor="false" showInProject="true" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false" CONNECTION_TYPE="CURRENT_VAGRANT">
     <exec>
-      <option name="COMMAND" value="/usr/bin/npm " />
+      <option name="COMMAND" value="~/.npm-packages/bin/yarn" />
       <option name="PARAMETERS" value="run dev" />
       <option name="WORKING_DIRECTORY" value="/lens" />
     </exec>
   </tool>
   <tool name="lens-data-service" description="Run node app" showInMainMenu="true" showInEditor="false" showInProject="true" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false" CONNECTION_TYPE="NONE">
     <exec>
-      <option name="COMMAND" value="/usr/bin/npm " />
+      <option name="COMMAND" value="~/.npm-packages/bin/yarn" />
       <option name="PARAMETERS" value="run dev" />
       <option name="WORKING_DIRECTORY" value="/lens/packages/lens-data-service" />
     </exec>
   </tool>
   <tool name="lens-data-manager" description="Run node web app" showInMainMenu="true" showInEditor="false" showInProject="true" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false" CONNECTION_TYPE="CURRENT_VAGRANT">
     <exec>
-      <option name="COMMAND" value="/usr/bin/npm " />
+      <option name="COMMAND" value="~/.npm-packages/bin/yarn" />
       <option name="PARAMETERS" value="run dev" />
       <option name="WORKING_DIRECTORY" value="/lens/packages/lens-data-manager" />
     </exec>
