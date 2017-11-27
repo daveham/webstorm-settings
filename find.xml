@@ -4,7 +4,7 @@
     <option name="defaultScopeName" value="app" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="app" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*.tsx" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -15,12 +15,13 @@
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*</mask>
-      <mask>*.tsx</mask>
-      <mask>*.ts</mask>
-      <mask>*.t</mask>
-      <mask>*.</mask>
-      <mask>*.j</mask>
+      <mask>*.jsx</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.t</mask>
+      <mask>*.ts</mask>
+      <mask>*.tsx</mask>
     </recentFileMasks>
   </component>
 </application>
