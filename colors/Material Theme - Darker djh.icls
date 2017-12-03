@@ -4,18 +4,11 @@
     <property name="created">2017-12-02T17:26:46</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2017.3.0.0</property>
-    <property name="modified">2017-12-02T17:28:57</property>
+    <property name="modified">2017-12-03T17:17:03</property>
     <property name="originalScheme">_@user_Material Theme - Darker</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.1" />
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
-    <option name="EDITOR_FONT_SIZE" value="13" />
-  </font>
-  <font>
-    <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
-    <option name="EDITOR_FONT_SIZE" value="13" />
-  </font>
+  <option name="EDITOR_FONT_SIZE" value="13" />
+  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
   <option name="CONSOLE_LINE_SPACING" value="1.6" />
@@ -397,7 +390,7 @@
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="4a4a4a" />
+        <option name="FOREGROUND" value="5aaa5a" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -433,7 +426,7 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="5a6a5a" />
+        <option name="FOREGROUND" value="5aaa5a" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -503,7 +496,7 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="5a6a5a" />
+        <option name="FOREGROUND" value="5aaa5a" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
