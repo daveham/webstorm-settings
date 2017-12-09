@@ -4,11 +4,8 @@
     <option name="defaultScopeName" value="app" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="app" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*.js,*.jsx,*.ts,*.tsx" />
     <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
       <mask>*.xml</mask>
       <mask>*.java</mask>
       <mask>*.as</mask>
@@ -22,6 +19,23 @@
       <mask>*.</mask>
       <mask>*.j</mask>
       <mask>*.js</mask>
+      <mask>*.js,</mask>
+      <mask>*.js,*</mask>
+      <mask>*.js,*.</mask>
+      <mask>*.js,*.j</mask>
+      <mask>*.js,*.js</mask>
+      <mask>*.js,*.jsx</mask>
+      <mask>*.js,*.jsx,</mask>
+      <mask>*.js,*.jsx,*</mask>
+      <mask>*.js,*.jsx,*.</mask>
+      <mask>*.js,*.jsx,*.t</mask>
+      <mask>*.js,*.jsx,*.ts</mask>
+      <mask>*.js,*.jsx,*.ts,</mask>
+      <mask>*.js,*.jsx,*.ts,*</mask>
+      <mask>*.js,*.jsx,*.ts,*.</mask>
+      <mask>*.js,*.jsx,*.ts,*.t</mask>
+      <mask>*.js,*.jsx,*.ts,*.ts</mask>
+      <mask>*.js,*.jsx,*.ts,*.tsx</mask>
     </recentFileMasks>
   </component>
 </application>
