@@ -4,7 +4,7 @@
     <property name="created">2017-12-27T09:59:27</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2017.3.1.0.0</property>
-    <property name="modified">2017-12-27T10:01:25</property>
+    <property name="modified">2017-12-27T22:39:27</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -606,7 +606,7 @@
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="4a4a4a" />
+        <option name="FOREGROUND" value="5aaa5a" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -717,7 +717,7 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="4a4a4a" />
+        <option name="FOREGROUND" value="5aaa5a" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -2224,6 +2224,7 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
+        <option name="BACKGROUND" value="486944" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="b39613" />
         <option name="EFFECT_TYPE" value="1" />
