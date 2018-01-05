@@ -8,31 +8,10 @@
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="app" />
-    <option name="FILE_MASK" value="*.json,*.js" />
+    <option name="FILE_MASK" value="*.js,*.ts,*.jsx,*.tsx" />
     <recentFileMasks>
-      <mask>*.ts</mask>
-      <mask>*.t</mask>
-      <mask>*.js</mask>
-      <mask>*.js,</mask>
-      <mask>*.js,*</mask>
-      <mask>*.js,*.</mask>
-      <mask>*.js,*.j</mask>
-      <mask>*.js,*.js</mask>
-      <mask>*.js,*.jsx</mask>
-      <mask>*.js,*.jsx,</mask>
-      <mask>*.js,*.jsx,*</mask>
-      <mask>*.js,*.jsx,*.</mask>
-      <mask>*.js,*.jsx,*.t</mask>
-      <mask>*.js,*.jsx,*.ts</mask>
-      <mask>*.js,*.jsx,*.ts,</mask>
-      <mask>*.js,*.jsx,*.ts,*</mask>
-      <mask>*.js,*.jsx,*.ts,*.</mask>
-      <mask>*.js,*.jsx,*.ts,*.t</mask>
       <mask>*.js,*.jsx,*.ts,*.ts</mask>
       <mask>*.js,*.jsx,*.ts,*.tsx</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.j</mask>
       <mask>*.jso</mask>
       <mask>*.json</mask>
       <mask>*.json,</mask>
@@ -40,6 +19,27 @@
       <mask>*.json,*.</mask>
       <mask>*.json,*.j</mask>
       <mask>*.json,*.js</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.js</mask>
+      <mask>*.js,</mask>
+      <mask>*.js,*</mask>
+      <mask>*.js,*.</mask>
+      <mask>*.js,*.t</mask>
+      <mask>*.js,*.ts</mask>
+      <mask>*.js,*.ts,</mask>
+      <mask>*.js,*.ts,*</mask>
+      <mask>*.js,*.ts,*.</mask>
+      <mask>*.js,*.ts,*.j</mask>
+      <mask>*.js,*.ts,*.js</mask>
+      <mask>*.js,*.ts,*.jsx</mask>
+      <mask>*.js,*.ts,*.jsx,</mask>
+      <mask>*.js,*.ts,*.jsx,*</mask>
+      <mask>*.js,*.ts,*.jsx,*.</mask>
+      <mask>*.js,*.ts,*.jsx,*.t</mask>
+      <mask>*.js,*.ts,*.jsx,*.ts</mask>
+      <mask>*.js,*.ts,*.jsx,*.tsx</mask>
     </recentFileMasks>
   </component>
 </application>
