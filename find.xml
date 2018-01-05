@@ -8,20 +8,10 @@
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="app" />
-    <option name="FILE_MASK" value="*.js,*.jsx,*.ts,*.tsx" />
+    <option name="FILE_MASK" value="*.json,*.js" />
     <recentFileMasks>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*</mask>
-      <mask>*.jsx</mask>
-      <mask>*.tsx</mask>
       <mask>*.ts</mask>
       <mask>*.t</mask>
-      <mask>*.</mask>
-      <mask>*.j</mask>
       <mask>*.js</mask>
       <mask>*.js,</mask>
       <mask>*.js,*</mask>
@@ -40,6 +30,16 @@
       <mask>*.js,*.jsx,*.ts,*.t</mask>
       <mask>*.js,*.jsx,*.ts,*.ts</mask>
       <mask>*.js,*.jsx,*.ts,*.tsx</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.jso</mask>
+      <mask>*.json</mask>
+      <mask>*.json,</mask>
+      <mask>*.json,*</mask>
+      <mask>*.json,*.</mask>
+      <mask>*.json,*.j</mask>
+      <mask>*.json,*.js</mask>
     </recentFileMasks>
   </component>
 </application>
