@@ -1,5 +1,9 @@
 <application>
   <component name="libraryTable">
+    <library name="@types/restify-errors" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="jest-DefinitelyTyped" type="javaScript">
       <properties>
         <sourceFilesUrls>
