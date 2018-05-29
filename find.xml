@@ -2,8 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="client" />
     <option name="defaultScopeName" value="client" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="client" />
     <option name="FILE_MASK" value="*.js" />
     <mask>*.properties</mask>
