@@ -3,7 +3,7 @@
     <option name="customScope" value="app" />
     <option name="defaultScopeName" value="app" />
     <option name="SEARCH_SCOPE" value="app" />
-    <option name="FILE_MASK" value="*.js,*.jsx,*.ts,*.tsx" />
+    <option name="FILE_MASK" value="*.scss" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -14,5 +14,6 @@
     <mask>*.mxml</mask>
     <mask>*.js</mask>
     <mask>*.js,*.jsx,*.ts,*.tsx</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
