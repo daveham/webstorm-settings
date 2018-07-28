@@ -7,7 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="app" />
-    <option name="FILE_MASK" value="*.js,*.jsx,*.ts,*.tsx" />
+    <option name="FILE_MASK" value="package.json" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -19,5 +19,6 @@
     <mask>*.js</mask>
     <mask>*.scss</mask>
     <mask>*.js,*.jsx,*.ts,*.tsx</mask>
+    <mask>package.json</mask>
   </component>
 </application>
