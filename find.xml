@@ -1,13 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
-    <option name="customScope" value="app" />
-    <option name="defaultScopeName" value="app" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="app" />
-    <option name="FILE_MASK" value="package.json" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js,*.jsx,*.ts,*.tsx" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -18,7 +14,7 @@
     <mask>*.mxml</mask>
     <mask>*.js</mask>
     <mask>*.scss</mask>
-    <mask>*.js,*.jsx,*.ts,*.tsx</mask>
     <mask>package.json</mask>
+    <mask>*.js,*.jsx,*.ts,*.tsx</mask>
   </component>
 </application>
