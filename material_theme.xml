@@ -2,12 +2,12 @@
   <component name="MaterialThemeConfig">
     <option name="version" value="2.7.2" />
     <option name="selectedTheme" value="DARKER" />
-    <option name="highlightColor" value="80cbc4" />
+    <option name="highlightColor" value="91dcd5" />
     <option name="highlightColorEnabled" value="true" />
     <option name="isContrastMode" value="true" />
     <option name="accentColor" value="c6ff00" />
     <option name="compactSidebar" value="true" />
-    <option name="tabsHeight" value="50" />
+    <option name="tabsHeight" value="40" />
     <option name="isCompactStatusBar" value="true" />
     <option name="darkTitleBar" value="true" />
     <option name="compactDropdowns" value="true" />
