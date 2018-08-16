@@ -6,4 +6,10 @@
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="sto" value="const $NAME$Styles = {&#10;  $END$,&#10;};" description="Style Object" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
