@@ -1,0 +1,9 @@
+<templateSet group="CEA">
+  <template name="ccon" value="console.log('cea:$CLIPPATH$:$METHOD$', { $END$ });" description="CEA Console from clipboard path" toReformat="false" toShortenFQNames="true">
+    <variable name="CLIPPATH" expression="substringBefore(clipboard(),&quot;.&quot;)" defaultValue="debug" alwaysStopAt="false" />
+    <variable name="METHOD" expression="jsMethodName()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
