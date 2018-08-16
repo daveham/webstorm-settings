@@ -1,5 +1,5 @@
 <templateSet group="DJH">
-  <template name="db" value="import _debug from 'debug';&#10;const debug = _debug('lens:$END$:$FILE$');" description="Add debug library for current file" toReformat="false" toShortenFQNames="true">
+  <template name="idb" value="import _debug from 'debug';&#10;const debug = _debug('lens:$END$:$FILE$');" description="Import debug library for current file" toReformat="false" toShortenFQNames="true">
     <variable name="FILE" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JS_STATEMENT" value="true" />
