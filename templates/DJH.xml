@@ -5,4 +5,10 @@
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="dbc" value="debug('$END$', { $X$ });" description="debug statement" toReformat="false" toShortenFQNames="true">
+    <variable name="X" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
