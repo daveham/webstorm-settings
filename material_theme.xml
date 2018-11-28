@@ -15,5 +15,6 @@
     <option name="allowDataCollection" value="true" />
     <option name="isHighContrast" value="true" />
     <option name="isWizardShown" value="true" />
+    <option name="isCompactMenus" value="true" />
   </component>
 </application>
