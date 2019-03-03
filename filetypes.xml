@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".editorConfig" type="EditorConfig" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="MANIFEST-000007" type="PLAIN_TEXT" />
       <mapping pattern=".env.development" type="PLAIN_TEXT" />
       <mapping pattern=".env.production" type="PLAIN_TEXT" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
@@ -10,6 +11,7 @@
       <mapping pattern="ssh-config-private" type="PLAIN_TEXT" />
       <mapping pattern="MANIFEST-000002" type="PLAIN_TEXT" />
       <mapping ext="sample" type="PLAIN_TEXT" />
+      <mapping ext="ldb" type="PLAIN_TEXT" />
       <removed_mapping pattern=".editorConfig" approved="true" type="JSON" />
     </extensionMap>
   </component>
