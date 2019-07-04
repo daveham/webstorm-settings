@@ -5,7 +5,7 @@
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js,*.jsx,*.ts,*.tsx" />
+    <option name="FILE_MASK" value="*.js,*.jsx,*.ts,*.tsx,*.html,*.ejs,-node_modules/*" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -18,5 +18,12 @@
     <mask>*.scss</mask>
     <mask>package.json</mask>
     <mask>*.js,*.jsx,*.ts,*.tsx</mask>
+    <mask>*.cs,*.ascx</mask>
+    <mask>*.cs,*.ascx,*.js,*.aspx</mask>
+    <mask>*.cs,*.ascx,*.js,*.aspx,*.html</mask>
+    <mask>*.cs,*.ascx,*.js,*.aspx,*.html,*.master</mask>
+    <mask>*.cs,*.ascx,*.js,*.aspx,*.html,*.master,*.xml,*.config</mask>
+    <mask>*.js,*.jsx,*.ts,*.tsx,*.html,*.ejs</mask>
+    <mask>*.js,*.jsx,*.ts,*.tsx,*.html,*.ejs,-node_modules/*</mask>
   </component>
 </application>
