@@ -1,5 +1,5 @@
 <toolSet name="External Tools">
-  <tool name="unison-lens" description="Unison file sync with vagrant" showInMainMenu="true" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
+  <tool name="unison-lens" description="Unison file sync with vagrant" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
     <exec>
       <option name="COMMAND" value="unison" />
       <option name="PARAMETERS" value="lens" />
