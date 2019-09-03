@@ -1,11 +1,11 @@
 <templateSet group="DJH">
-  <template name="ildb" value="import _debug from 'debug';&#10;const debug = _debug('lens:$END$:$CLIP$');" description="Import debug library for current file" toReformat="false" toShortenFQNames="true">
+  <template name="ildb" value="import _debug from 'debug';&#10;const debug = _debug('lens:$END$:$CLIP$');" description="Import debug library for current file" toReformat="false" toShortenFQNames="true" deactivated="true">
     <variable name="CLIP" expression="substringBefore(clipboard(),&quot;.&quot;)" defaultValue="debug" alwaysStopAt="true" />
     <context>
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="ldb" value="debug('$METHOD$$END$', { $PARAM$ });" description="lens debug statement" toReformat="false" toShortenFQNames="true">
+  <template name="ldb" value="debug('$METHOD$$END$', { $PARAM$ });" description="lens debug statement" toReformat="false" toShortenFQNames="true" deactivated="true">
     <variable name="METHOD" expression="jsMethodName()" defaultValue="log" alwaysStopAt="true" />
     <variable name="PARAM" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
