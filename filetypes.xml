@@ -9,8 +9,9 @@
       <mapping pattern="AwesomeProject" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
-      <mapping ext="e2e" type="PLAIN_TEXT" />
       <mapping ext="api" type="PLAIN_TEXT" />
+      <mapping ext="xcactivitylog" type="PLAIN_TEXT" />
+      <mapping ext="e2e" type="PLAIN_TEXT" />
       <mapping ext="srv" type="PLAIN_TEXT" />
       <mapping ext="sample" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
