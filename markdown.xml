@@ -1,6 +1,6 @@
 <application>
   <component name="MarkdownApplicationSettings" HideErrors="true">
-    <MarkdownCssSettings StylesheetUri="" TextEnabled="true" StylesheetText="body {&#10;  font-size: 150% !important;&#10;}" />
-    <MarkdownPreviewSettings AutoScrollPreview="false" />
+    <MarkdownCssSettings StylesheetUri="" TextEnabled="true" StylesheetText="body {&#10;  background-color: #16374c;&#10;  color: #ddd;&#10;  font-size: 150% !important;&#10;  margin-left: 60px;&#10;}&#10;h1 {&#10;  color: #e57e34;&#10;  line-height: 2em;&#10;  padding-bottom: 0;&#10;  margin-bottom: 0;&#10;}&#10;h2 {&#10;  color: #e5c44b;&#10;  line-height: 3em;&#10;  padding-bottom: 0;&#10;  margin-bottom: 0;&#10;  border-bottom-width: 0;&#10;}&#10;h3 {&#10;  color: #9b5b8a;&#10;  line-height: 2em;&#10;  padding-bottom: 0;&#10;  margin-bottom: 0;&#10;}&#10;h4 {&#10;  color: #7cc66f;&#10;  line-height: 1.5em;&#10;  padding-bottom: 0;&#10;  margin-bottom: 0;&#10;}&#10;" />
+    <MarkdownPreviewSettings DefaultSplitLayout="Show preview only" AutoScrollPreview="false" />
   </component>
 </application>
