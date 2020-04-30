@@ -1,0 +1,14 @@
+<templateSet group="user">
+  <template name="dbl" value="import getParentDebugLog from '../debugLog';&#10;&#10;const segment = '$END$';&#10;&#10;export default function getDebugLog(label) {&#10;  return getParentDebugLog(label ? `${segment}:${label}` : segment);&#10;}" description="Debug Log" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="ES6_STATEMENT" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="dbli" value="import getDebugLog from './debugLog';&#10;const debug = getDebugLog('$END$');" description="Debug Log Import" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="ES6_STATEMENT" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
