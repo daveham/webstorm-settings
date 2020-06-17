@@ -4,7 +4,7 @@
     <property name="created">2019-07-23T15:18:58</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2019.2.0.0</property>
-    <property name="modified">2020-04-29T10:35:38</property>
+    <property name="modified">2020-06-16T20:16:29</property>
     <property name="originalScheme">Material Deep Ocean</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -185,7 +185,7 @@
     </option>
     <option name="BREADCRUMBS_DEFAULT">
       <value>
-        <option name="FOREGROUND" value="4b526d" />
+        <option name="FOREGROUND" value="7be687" />
         <option name="BACKGROUND" value="f111a" />
       </value>
     </option>
