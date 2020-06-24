@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="simulation" />
-    <option name="defaultScopeName" value="simulation" />
+    <option name="customScope" value="client-src" />
+    <option name="defaultScopeName" value="client-src" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="simulation" />
+    <option name="SEARCH_SCOPE" value="client-src" />
     <option name="FILE_MASK" value="*" />
     <mask>*.xml</mask>
     <mask>*.css</mask>
