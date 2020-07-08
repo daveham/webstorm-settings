@@ -7,7 +7,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*.xml</mask>
     <mask>*.css</mask>
     <mask>*.htm</mask>
@@ -19,12 +19,12 @@
     <mask>*.ats</mask>
     <mask>*.ts</mask>
     <mask>*.cjs</mask>
-    <mask>*.js</mask>
     <mask>*.js,*.json</mask>
     <mask>*.json</mask>
     <mask>*.m,*lh</mask>
     <mask>*.js,*.json,*.ts,*.jsx,*.tsx</mask>
     <mask>*.java</mask>
     <mask>*</mask>
+    <mask>*.js</mask>
   </component>
 </application>
