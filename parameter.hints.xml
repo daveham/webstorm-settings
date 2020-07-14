@@ -4,5 +4,9 @@
       <blacklist language="TypeScript" />
     </blacklists>
     <option id="js.show.names.for.all.args" value="true" />
+    <disabledLanguages>
+      <language id="TypeScript" />
+      <language id="JavaScript" />
+    </disabledLanguages>
   </component>
 </application>
