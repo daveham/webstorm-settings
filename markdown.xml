@@ -1,6 +1,6 @@
 <application>
   <component name="MarkdownApplicationSettings" HideErrors="true">
-    <MarkdownCssSettings TextEnabled="true" />
+    <MarkdownCssSettings StylesheetUri="jar:file:/Users/dave/Library/Application%20Support/JetBrains/Toolbox/apps/WebStorm/ch-0/201.7223.93/WebStorm.app/Contents/plugins/markdown/lib/markdown.jar!/org/intellij/plugins/markdown/settings/default.css" TextEnabled="true" />
     <MarkdownPreviewSettings DefaultSplitLayout="Show preview only" AutoScrollPreview="false" />
   </component>
 </application>
