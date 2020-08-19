@@ -2,8 +2,8 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="mp4" type="Native" />
-      <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern="AwesomeProjectTests" type="PLAIN_TEXT" />
+      <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern=".env.staging" type="PLAIN_TEXT" />
       <mapping pattern=".env.beta" type="PLAIN_TEXT" />
