@@ -4,7 +4,7 @@
     <property name="created">2020-07-14T12:26:18</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2020.1.3.0.0</property>
-    <property name="modified">2020-07-31T16:17:27</property>
+    <property name="modified">2020-09-18T14:03:54</property>
     <property name="originalScheme">Material Deep Ocean</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -461,7 +461,7 @@
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="717cb4" />
+        <option name="FOREGROUND" value="4cfa02" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -497,7 +497,7 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="717cb4" />
+        <option name="FOREGROUND" value="4cfa02" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -590,7 +590,7 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="717cb4" />
+        <option name="FOREGROUND" value="4cfa02" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -747,7 +747,7 @@
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="f3f349" />
+        <option name="FOREGROUND" value="dce0e7" />
       </value>
     </option>
     <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
@@ -2764,7 +2764,7 @@
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="464b5d" />
+        <option name="FOREGROUND" value="f6f30b" />
       </value>
     </option>
     <option name="OC.BLOCK_COMMENT">
@@ -3735,7 +3735,7 @@
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="464b5d" />
+        <option name="BACKGROUND" value="6c6c72" />
       </value>
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
