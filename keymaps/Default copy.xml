@@ -1,8 +1,0 @@
-<keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
-  <action id="EditorScrollToCenter">
-    <keyboard-shortcut first-keystroke="shift ctrl m" />
-  </action>
-  <action id="Tool_External Tools_unison-lens">
-    <keyboard-shortcut first-keystroke="ctrl alt s" />
-  </action>
-</keymap>
