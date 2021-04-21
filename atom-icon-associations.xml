@@ -4,8 +4,8 @@
       <CustomAssociations>
         <option name="customAssociations">
           <RegexAssociation>
-            <option name="matcher" value="^(__tests?|__mocks?)$" />
-            <option name="pattern" value="^(__tests?|__mocks?)$" />
+            <option name="matcher" value="^patches$" />
+            <option name="pattern" value="^patches$" />
             <option name="name" value="jest tests" />
             <option name="icon" value="/tests.svg" />
           </RegexAssociation>
