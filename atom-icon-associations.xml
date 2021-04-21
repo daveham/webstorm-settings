@@ -1,0 +1,16 @@
+<application>
+  <component name="Atom Icon Associations Config">
+    <option name="customFolderAssociations">
+      <CustomAssociations>
+        <option name="customAssociations">
+          <RegexAssociation>
+            <option name="matcher" value="^([_]+tests[_]+|[_]+mocks[_]+)$" />
+            <option name="pattern" value="^([_]+tests[_]+|[_]+mocks[_]+)$" />
+            <option name="name" value="jest tests" />
+            <option name="icon" value="/tests.svg" />
+          </RegexAssociation>
+        </option>
+      </CustomAssociations>
+    </option>
+  </component>
+</application>
