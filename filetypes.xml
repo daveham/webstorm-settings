@@ -14,6 +14,7 @@
       <mapping ext="py" type="PLAIN_TEXT" />
       <mapping ext="xcactivitylog" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
+      <mapping ext="xcconfig" type="PLAIN_TEXT" />
       <mapping ext="sample" type="PLAIN_TEXT" />
       <mapping ext="srv" type="PLAIN_TEXT" />
       <mapping ext="e2e" type="PLAIN_TEXT" />
