@@ -3,6 +3,8 @@
     <extensionMap>
       <mapping ext="mp4" type="Native" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
+      <mapping pattern=".env.test" type="PLAIN_TEXT" />
+      <mapping pattern=".env.dave" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern="AwesomeProjectTests" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
@@ -14,10 +16,12 @@
       <mapping ext="py" type="PLAIN_TEXT" />
       <mapping ext="xcactivitylog" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
+      <mapping ext="xcconfig" type="PLAIN_TEXT" />
       <mapping ext="sample" type="PLAIN_TEXT" />
       <mapping ext="srv" type="PLAIN_TEXT" />
       <mapping ext="e2e" type="PLAIN_TEXT" />
       <mapping pattern="splitLayout" type="TypeScript JSX" />
+      <mapping ext="plist" type="XML" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
