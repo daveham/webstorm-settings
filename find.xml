@@ -1,14 +1,19 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js,*.md, *.ejs, *.css, *.html, *.json" />
+    <option name="FILE_MASK" value="*.js,*.md, *.ejs, *.css, *.html, *.json,*.sh" />
     <mask>*.lock</mask>
     <mask>*.js</mask>
     <mask>*.js,*.md</mask>
     <mask>*.js,*.md, *.ejs, *.css</mask>
     <mask>*.js,*.md, *.ejs, *.css, *.html</mask>
     <mask>*.js,*.md, *.ejs, *.css, *.html, *.json</mask>
+    <mask>*.js,*.md, *.ejs, *.css, *.html, *.json,*.sh</mask>
   </component>
 </application>
